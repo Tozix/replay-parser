@@ -1,0 +1,17 @@
+{
+    "name": "Tozix/replay-parser",
+    "description": "Parses .wotreplay files from World of Tanks into JSON data. Based on TSG wotreplay-parser",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Tozix",
+            "email": "tozix@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "files": ["WoTReplayParser.php"]
+    },
+    "require": {
+        "tsg/phpickle": "dev-master"
+    }
+}
