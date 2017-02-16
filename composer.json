@@ -10,5 +10,5 @@
     ],
     "autoload": {
         "files": ["WoTReplayParser.php"]
-    },
+    }
 }
